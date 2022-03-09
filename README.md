@@ -1,7 +1,8 @@
 ### Welcome 🖖
 
-### Tean 1771 Programmer
+### FRC Team 1771 Programmer
 - 🔭 I’m currently working on 2022 Rapid React Robot Code
+- github.com/team1771/robosaurus
 
 - 📫  You can reach me on ChiefDelphi or GitHub
 
