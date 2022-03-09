@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome 🖖
+
+### Tean 1771 Programmer
+- 🔭 I’m currently working on 2022 Rapid React Robot Code
+
+- 📫  You can reach me on ChiefDelphi or GitHub
+
+![](https://github.com/mrredness/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/mrredness/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **MrRedness/MrRedness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
