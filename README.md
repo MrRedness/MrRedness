@@ -1,8 +1,7 @@
 ### Welcome 🖖
 
 ### FRC Team 1771 Programmer
-- 🔭 I’m currently working on 2022 Rapid React Robot Code
-- github.com/team1771/robosaurus
+- 🔭 I’m currently working on [2022 Rapid React Robot Code](https://github.com/TEAM1771/Robosaurus-2022)
 
 - 📫  You can reach me on ChiefDelphi or GitHub
 
