@@ -2,8 +2,8 @@
 
 ### FRC Team 1771 Programmer
 
-- Learned Java, C++, Javascript, Flutter/Dart, and little HTML/CSS & Python
-- 🔭 I’m currently working on [2022 Rapid React Robot Code](https://github.com/TEAM1771/)
+- C++, Java, Javascript, Flutter/Dart, and little HTML/CSS & Python
+- 🔭 I’m currently working on [2022 Rapid React Robot Code & Documentation](https://github.com/TEAM1771/)
 
 - 📫  You can reach me on ChiefDelphi or GitHub
 
