@@ -2,7 +2,7 @@
 
 ## FRC Team 1771 Programmer
 
-- ###     Skills: C++, Java, Javascript, Flutter/Dart, and little HTML/CSS & Python
+- ###     Skills: C++, Java, Javascript, Flutter/Dart, and a little HTML/CSS & Python
 
 - ####    🔭 I’m currently working on [2022 Rapid React Robot Code & Documentation](https://github.com/TEAM1771/)
 
