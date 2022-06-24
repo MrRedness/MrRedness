@@ -1,18 +1,18 @@
-### Welcome 🖖
+# Welcome 🖖
 
-### FRC Team 1771 Programmer
+## FRC Team 1771 Programmer
 
-- C++, Java, Javascript, Flutter/Dart, and little HTML/CSS & Python
-- 🔭 I’m currently working on [2022 Rapid React Robot Code & Documentation](https://github.com/TEAM1771/)
+- ###     Skills: C++, Java, Javascript, Flutter/Dart, and little HTML/CSS & Python
 
-- 📫  You can reach me on ChiefDelphi or GitHub
+- ####    🔭 I’m currently working on [2022 Rapid React Robot Code & Documentation](https://github.com/TEAM1771/)
+
+- ####    📫  You can reach me on ChiefDelphi or GitHub
 
 <!-- ![](https://github.com/mrredness/github-stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/mrredness/github-stats/blob/master/generated/languages.svg) -->
 
 [![MrRedness's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRedness&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedness&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
