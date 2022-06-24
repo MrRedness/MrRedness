@@ -4,7 +4,7 @@
 
 - ###     Skills: C++, Java, Javascript, Flutter/Dart, and a little HTML/CSS & Python
 
-- ####    🔭 I’m currently working on [2022 Rapid React Robot Code & Documentation](https://github.com/TEAM1771/)
+- ####    🔭 I’m currently working on [2022 Rapid React Robot Code && Documentation](https://github.com/TEAM1771/)
 
 - ####    📫  You can reach me on ChiefDelphi or GitHub
 
