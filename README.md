@@ -12,11 +12,9 @@
 
 ![](https://github.com/mrredness/github-stats/blob/master/generated/languages.svg) -->
 
-[![MrRedness's GitHub stats](https://github-user-stats-mrredness-projects.vercel.app/api?username=MrRedness&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![MrRedness's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=mrredness&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-[![Top Langs](https://github-user-stats-mrredness-projects.vercel.app/api/top-langs/?username=mrredness&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mrredness&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MrRedness/MrRedness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
