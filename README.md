@@ -6,7 +6,7 @@
 
 - ####    🔭 I’m currently working on various FIRST Robotics Competition projects && [Documentation](https://github.com/TEAM1771/Crash-Course/wiki)
 
-- ####    📫  You can reach me @ joseph.farkas@team1771.com
+- ####    📫  You can reach me @ joseph.farkas@northgwinnettrobotics.com or josephdfarkas@protonmail.com
 
 <!-- ![](https://github.com/mrredness/github-stats/blob/master/generated/overview.svg)
 
