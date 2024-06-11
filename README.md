@@ -1,12 +1,14 @@
-# Welcome 🖖
-
+# Welcome 🖖 
 ## FRC Team 1771 Programmer
 
-- ###     Skills: C++, Java (+JavaFX), Javascript, Flutter/Dart, and a little HTML/CSS & Python
+###     Skills
+- C++ & Robotics : Time-optimal trajectory planning, numerical solving, optimal pathfinding, resilient and smooth system control
+- Python, Jupyter, Tensorflow and Mediapipe : Neural Network models identifying and translating body language, gestures, etc
+- Java (+JavaFX), Javascript, Flutter/Dart, and a little HTML/CSS & Python
 
-- ####    🔭 I’m currently working on various FIRST Robotics Competition projects && [Documentation](https://github.com/TEAM1771/Crash-Course/wiki)
+####    🔭 I’m currently working on various FIRST Robotics Competition projects && [Documentation](https://github.com/TEAM1771/Crash-Course/wiki)
 
-- ####    📫  You can reach me @ joseph.farkas@northgwinnettrobotics.com or josephdfarkas@protonmail.com
+####    📫  You can reach me @ joseph.farkas@northgwinnettrobotics.com or josephdfarkas@protonmail.com
 
 <!-- ![](https://github.com/mrredness/github-stats/blob/master/generated/overview.svg)
 
