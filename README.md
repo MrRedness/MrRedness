@@ -1,5 +1,6 @@
 # Welcome 🖖 
-## FRC Team 1771 Programmer
+## CS | Georgia Tech
+## FRC 1771 Programming Mentor
 
 ###     Skills
 - C++ & Robotics : Time-optimal trajectory planning, numerical solving, optimal pathfinding, resilient and smooth system control
