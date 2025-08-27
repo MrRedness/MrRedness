@@ -1,6 +1,8 @@
 # Welcome 🖖 
-## CS | Georgia Tech
-## FRC 1771 Programming Mentor
+## CS | Georgia Tech | FRC 1771 Programming Mentor
+
+### I love hands-on software development, and I am looking to expand technical expertise and collaborate to build solutions with real impacts.
+
 
 ###     Skills
 - C++ & Robotics : Time-optimal trajectory planning, numerical solving, optimal pathfinding, resilient and smooth system control
