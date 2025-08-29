@@ -1,7 +1,7 @@
 # Welcome 🖖 
 ## CS | Georgia Tech | FRC 1771 Programming Mentor
-
-### I love hands-on software development, and I am looking to expand technical expertise and collaborate to build solutions with real impacts.
+### I love embedded devices, intelligence, and any hands-on software engineering
+### Llooking to expand technical expertise and collaborate to build solutions with real impacts.
 
 
 ###     Skills
