@@ -6,6 +6,7 @@
 
 ###     Skills & Experience
 - C/C++, Embedded systems and Robotics : Time-optimal trajectory planning, numerical solving, resilient and smooth system control
+- Computer Vision: Feduicals, localizing, Kalman filtering
 - Machine Learning: Python, Jupyter, Tensorflow and Mediapipe : Neural Network models identifying body language, gestures, etc
 - Frontend Development: Flutter/Dart, Java (+JavaFX), Javascript, HTML/CSS
 
