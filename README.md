@@ -7,7 +7,7 @@
 ###     Skills & Experience
 - C/C++, Embedded systems and Robotics : Time-optimal trajectory planning, numerical solving, resilient and smooth system control
 - Machine Learning: Python, Jupyter, Tensorflow and Mediapipe : Neural Network models identifying body language, gestures, etc
-- Frontend Development: Java (+JavaFX), Javascript, Flutter/Dart, and a little HTML/CSS & Python
+- Frontend Development: Flutter/Dart, Java (+JavaFX), Javascript, HTML/CSS
 
 <!-- ####    🔭 I’m currently working on an android app for CS2340 -->
 
