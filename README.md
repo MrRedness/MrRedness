@@ -4,12 +4,12 @@
 ### Looking to expand technical expertise and collaborate to build solutions with real impacts.
 
 
-###     Skills
-- C++ & Robotics : Time-optimal trajectory planning, numerical solving, optimal pathfinding, resilient and smooth system control
-- Python, Jupyter, Tensorflow and Mediapipe : Neural Network models identifying and translating body language, gestures, etc
-- Java (+JavaFX), Javascript, Flutter/Dart, and a little HTML/CSS & Python
+###     Skills & Experience
+- C/C++, Embedded systems and Robotics : Time-optimal trajectory planning, numerical solving, resilient and smooth system control
+- Machine Learning: Python, Jupyter, Tensorflow and Mediapipe : Neural Network models identifying body language, gestures, etc
+- Frontend Development: Java (+JavaFX), Javascript, Flutter/Dart, and a little HTML/CSS & Python
 
-####    🔭 I’m currently working on various FIRST Robotics Competition projects && [Documentation](https://github.com/TEAM1771/Crash-Course/wiki)
+<!-- ####    🔭 I’m currently working on an android app for CS2340 -->
 
 ####    📫  You can reach me @ josephfarkas@gatech.edu
 
