@@ -3,6 +3,7 @@
 ### I love embedded devices, intelligence, and any hands-on software engineering
 ### Looking to expand technical expertise and collaborate to build solutions with real impacts.
 
+## [Resume](https://github.com/FarkasJoseph/Resume/blob/main/main.pdf)
 
 ###     Skills & Experience
 - C/C++, Embedded systems and Robotics : Time-optimal trajectory planning, numerical solving, resilient and smooth system control
