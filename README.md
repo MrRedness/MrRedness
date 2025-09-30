@@ -11,6 +11,10 @@
 - Machine Learning: Python, Jupyter, Tensorflow and Mediapipe : Neural Network models identifying body language, gestures, etc
 - Frontend Development: Flutter/Dart, Java (+JavaFX), Javascript, HTML/CSS
 
+### Recent Work
+- I recently finished the HackGT hackathon building a live and seemless tool for notetaking and making reminders from real conversations.
+- I'm currently working on a Personal Finance app for CS2340, with collaborative goal tracking and a chatbot for intuitive use.
+
 <!-- ####    🔭 I’m currently working on an android app for CS2340 -->
 
 ####    📫  You can reach me @ josephfarkas@gatech.edu
