@@ -13,7 +13,8 @@
 
 ### Recent Work
 - I recently finished the HackGT hackathon building a live and seamless tool for notetaking and making reminders from real conversations.
-- I also won the Retro Track at the HackNC hackathon for [SlashSend](https://github.com/kevinzhxng/SlashSpend)!
+- My team won the Best use of Mongo DB and an Honorable Mention from Google Cloud for [DocDoctor](https://github.com/karthiksing05/DocDoctor-AI-ATL): a CSM tool for transcribing customer calls in real-time and provide intuitive documentation lookup. ([Devpost](https://devpost.com/software/docdoctor))
+- I also won the Retro Track at the HackNC hackathon for [SlashSend](https://github.com/kevinzhxng/SlashSpend)! ([Devpost](https://devpost.com/software/slashspend))
 - I'm currently working on a Personal Finance app for CS2340, with collaborative goal tracking and a chatbot for intuitive use.
 
 <!-- ####    🔭 I’m currently working on an android app for CS2340 -->
